@@ -1,0 +1,24 @@
+.one{
+    color: aliceblue;
+    background-color: deepskyblue;
+    width: 60%;
+    height: 100%;
+    margin-left: 20%;
+}
+.em{
+    margin-left: 40%;
+}
+.fn{
+    margin-left: 40%;
+}
+.ln{
+    margin-left: 40%;
+}
+.mess{
+    margin-left: 40%;
+    border-radius: 25%;
+}
+.butonii{
+    border-radius: 25%;
+    margin-left: 40%;
+}
